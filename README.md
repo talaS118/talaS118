@@ -1,6 +1,6 @@
 # Hello, I am Tala Shraim!✨  
 
-I’m a **Computer Science student** who loves solving problems, building projects, and exploring how technology can make everyday life easier. What excites me most is seeing how code can turn into something that helps people, whether it’s streamlining a process, improving access to information, or building a product that others can actually use.  
+I’m a **Computer Science** student who loves solving problems, building projects, and exploring how technology can make everyday life easier. What excites me most is seeing how code can turn into something that helps people, whether it’s streamlining a process, improving access to information, or building a product that others can actually use.  
 
 Outside of school, I love staying active by going to the gym, going on walks in nature, and playing basketball 🏀. 
 I also enjoy being creative in the kitchen, experimenting with new recipes and flavors 🧑‍🍳.
@@ -34,11 +34,11 @@ Most of all, I value spending time with my family and community ❤️.
 - Designed a relational database system for managing hospital operations.  
 - Built entity–relationship diagrams, normalized schemas, and queries for patient, staff, and appointment data.  
 
-### VeggiVibe – Mobile App  
-**Tech:** HTML, CSS, JavaScript  
-- Built a mobile app that helps vegetarians and vegans identify suitable grocery items by scanning barcodes.  
-- Designed and tested prototypes in Figma, then implemented barcode scanning and ingredient-matching features.
-  
+### VeggiVibe – Mobile Web App  
+**Tech:** HTML, CSS, JavaScript, Figma  
+- Developed a mobile-friendly web application to help vegetarians and vegans identify suitable grocery items by scanning barcodes.  
+- Designed and tested prototypes in Figma, then implemented barcode scanning and ingredient-matching features optimized for phone use.  
+
 ---
 
 ## 🎓 Awards & Scholarships  
@@ -51,8 +51,9 @@ Most of all, I value spending time with my family and community ❤️.
 ---
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tala-shraim/)
-[![Email: tshraim118@gmail.com](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:tshraim118@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talashraim/)  
+
+[![Email](https://img.shields.io/badge/Email-tshraim118%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:tshraim118@gmail.com)  
 
 ---
 
