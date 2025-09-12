@@ -50,12 +50,15 @@ Most of all, I value spending time with my family and community ❤️.
 
 ---
 
-## 📫 Add me on LinkedIn  
+## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tala-shraim/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:tshraim118@gmail.com)
 
 ---
 
-![Tala's GitHub stats](https://github-readme-stats.vercel.app/api?username=talaS118&show_icons=true&theme=default)
+## 📫 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talaS118&layout=compact)
+
 
 ---
 
