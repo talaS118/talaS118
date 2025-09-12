@@ -1,8 +1,10 @@
 # Hello, I am Tala Shraim!✨  
 
-I’m a **Computer Science student** who loves solving problems, building projects, and exploring how technology can make everyday life easier. What excites me most is seeing how code can turn into something that helps people—whether it’s streamlining a process, improving access to information, or building a product that others can actually use.  
+I’m a **Computer Science student** who loves solving problems, building projects, and exploring how technology can make everyday life easier. What excites me most is seeing how code can turn into something that helps people, whether it’s streamlining a process, improving access to information, or building a product that others can actually use.  
 
-Outside of school, I love staying active by going to the gym, going on walks in nature, and playing basketball 🏀. I also enjoy being creative in the kitchen, experimenting with new recipes and flavors. Most of all, I value spending time with my family and community ❤️.  
+Outside of school, I love staying active by going to the gym, going on walks in nature, and playing basketball 🏀. 
+I also enjoy being creative in the kitchen, experimenting with new recipes and flavors 🧑‍🍳.
+Most of all, I value spending time with my family and community ❤️.  
 
 ---
 
@@ -49,11 +51,11 @@ Outside of school, I love staying active by going to the gym, going on walks in 
 ---
 
 ## 📫 Add me on LinkedIn  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talashraim/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tala-shraim/)
 
 ---
 
-![Tala's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalaShraim&show_icons=true&theme=default)
+![Tala's GitHub stats](https://github-readme-stats.vercel.app/api?username=talaS118&show_icons=true&theme=default)
 
 ---
 
