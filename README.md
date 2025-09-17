@@ -9,10 +9,10 @@ Most of all, I value spending time with my family and community ❤️.
 ---
 
 ## 🛠️ Technical Skills
-**Programming:** Python, SQL, Dart, Java, JavaScript, C/C++, HTML, CSS, R, F#  
-**Frameworks & Tools:** Flutter, Git, Jira, SAFe, MySQL, PySpark, JavaFX, Unix, vim, GDB, Microsoft Access, Excel  
-**Data Science & Analysis:** Pandas, NumPy, JQL, Big Data concepts, Data Mining (CNNs/ResNet)  
-**Design & Prototyping:** Figma, Canva, UI/UX Prototyping, Wireframing, User Testing  
+**Programming:** Python, Java, JavaScript, C and C++, SQL, Dart, R, F Sharp, HTML and CSS  
+**Frameworks & Tools:** Git, Unix and Linux, GNU Debugger, vim, Jira, Scaled Agile Framework, JavaFX, Flutter, MySQL  
+**Data Science & Analysis:** PyTorch, Torchvision, PySpark, Pandas, NumPy, Microsoft Excel, Microsoft Access  
+**Design & Prototyping:** Figma, UI/UX Prototyping, Wireframing, Usability Testing (User Studies, A/B Testing)  
 **Languages:** Arabic (Native), English (Fluent), Spanish (Conversational)
 
 ---
@@ -31,8 +31,8 @@ Most of all, I value spending time with my family and community ❤️.
 
 ### Hospital Database Management System – Database Project  
 **Tech:** MySQL, SQL, ERD Modeling  
-- Designed a relational database system for managing hospital operations.  
-- Built entity–relationship diagrams, normalized schemas, and queries for patient, staff, and appointment data.  
+- Designed a database with entity–relationship diagrams and normalized schemas to manage hospital operations data.
+- Implemented SQL queries for efficient data insertion, updates, and retrieval, improving data accuracy and consistency.
 
 ### VeggiVibe – Mobile Web App  
 **Tech:** HTML, CSS, JavaScript, Figma  
