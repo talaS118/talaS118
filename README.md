@@ -36,8 +36,8 @@ Most of all, I value spending time with my family and community ❤️.
 
 ### VeggiVibe – Mobile Web App  
 **Tech:** HTML, CSS, JavaScript, Figma  
-- Developed a mobile-friendly web application to help vegetarians and vegans identify suitable grocery items by scanning barcodes.  
-- Designed and tested prototypes in Figma, then implemented barcode scanning and ingredient-matching features optimized for phone use.  
+- Built a mobile-friendly web app to help vegetarians and vegans identify suitable grocery items by scanning barcodes.
+- Designed Figma prototypes and implemented barcode scanning with ingredient matching functionality.
 
 ---
 
