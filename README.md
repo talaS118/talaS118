@@ -21,8 +21,8 @@ Most of all, I value spending time with my family and community ❤️.
 
 ### Epic End-Date Calculator – Web Tool  
 **Tech:** HTML, CSS, JavaScript  
-- Created a web-based tool at Zebra Technologies to estimate Agile project delivery timelines.  
-- Automated staff-month calculations, reducing manual effort and helping teams forecast more efficiently.  
+- Developed a web-based tool at Zebra Technologies to estimate program delivery timelines.  
+- Automated epic-level and program-level end-date calculations using staff-month inputs, reducing manual spreadsheet tracking by 80% and improving forecasting accuracy across teams.
 
 ### Solar Eclipse Phase Classification – Machine Learning  
 **Tech:** Python, PyTorch, ResNet, Pandas, NumPy  
