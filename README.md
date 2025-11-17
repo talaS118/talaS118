@@ -21,15 +21,16 @@ Most of all, I value spending time with my family and community ❤️.
 
 ### Substitute Helper - Classroom Behavior Tracking App 
 **Tech:** Flutter, Dart, Firebase 
-- Designed and built a mobile app to solve the problem of substitute teachers struggling to track student behavior efficiently.
-- Implemented real-time behavior counters, category tags, and per-student notes for quick classroom use.
-- Added auto-generated daily summaries with export options (copy/email) to streamline reporting for teachers.
+- Built a mobile app to help substitute teachers accurately track student behavior in real time and stay organized.
+- Implemented behavior counters and per-student notes with automatic data saving for reliable and reviewable records.
+- Actively improving the app with attendance tracking, exportable summaries, and UI refinements to support workflows.
+
 
 ### Women’s Fitness Market Research & Data Analysis
 **Tech:** Survey Design, Python, Jupyter Notebooks  
-- Conducted a data-driven project to address the lack of insight into what women in Chicago want in a gym environment.
-- Designed and distributed a targeted survey; cleaned and analyzed responses using Python/Jupyter to identify trends.
-- Produced insights that shaped pricing ranges, service offerings, and layout decisions for a women’s-only fitness concept.
+- Leading a data-driven research project to uncover what women in Chicago value most in a gym environment.
+- Designed and distributed a targeted survey and am actively collecting responses to analyze emerging user patterns.
+- Using early insights to guide pricing, service offerings, and initial layout planning for a women’s-only fitness concept.
 
 ### Epic End-Date Calculator – Web Tool  
 **Tech:** HTML, CSS, JavaScript  
