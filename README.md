@@ -32,6 +32,12 @@ Most of all, I value spending time with my family and community ❤️.
 - Designed and distributed a targeted survey and am actively collecting responses to analyze emerging user patterns.
 - Using early insights to guide pricing, service offerings, and initial layout planning for a women’s-only fitness concept.
 
+### Google Play Store Data Analysis
+**Tech:** Python, Pandas, Seaborn, Jupyter Notebooks  
+- Analyzed Google Play Store app data by cleaning, transforming, and structuring large CSV files using Python and pandas.
+- Built visualizations (histograms, bar charts, density plots) to uncover patterns in ratings, installs, prices, and categories.
+- Implemented Python scripts for data parsing and numeric conversions to generate reproducible outputs.
+
 ### Epic End-Date Calculator – Web Tool  
 **Tech:** HTML, CSS, JavaScript  
 - Developed a web-based tool at Zebra Technologies to estimate program delivery timelines.  
